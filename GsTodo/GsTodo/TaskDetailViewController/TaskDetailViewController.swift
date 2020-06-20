@@ -7,7 +7,7 @@
 //
 
 import UIKit
-#warning("ここに PKHUD を import しよう！")
+#warning("ここに PKHUD を import しようホゲホゲ！")
 import PKHUD
 
 class TaskDetailViewController: UIViewController {
